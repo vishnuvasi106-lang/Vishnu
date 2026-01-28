@@ -1,0 +1,51 @@
+JAVA:
+----
+What is java?
+A Java is a programming language that is used to develop the new applications or a new softwares.
+By using Java only we are creating the applications means that the wrong.
+There are much more programming languages to develop the applications and softwares.
+In that the java is one of them.
+Without writing the class we can't write the java program.
+Besically java is a object oriented programming language.
+
+Programming Languages:
+----------------------
+There are 3 types of programming languages are there 
+--->Structured Oriented Programming language.
+--->Object Based Programming language.
+--->Object Oriented Programming language.
+
+-->Structured Oriented Programming Language:
+   -----------------------------------------
+     *In structured it follows the structure.
+     *Based on the structur the programe will be build.
+   Examples:
+        c,etc...
+-->Object Based Programming Language:
+  ---------------------------------- 
+     *In the object based , it follows the class and objects to create a programe.
+     *By creating this two class and objects we can write the programs in this.
+   Examples:
+       TB,TBScript,etc...
+-->Object Oriented Programming Language:
+  ------------------------------------
+    *In the object oriented programming language we can create the program using some key words that are Class,Object,Polymorphism,Inheritence,Abstraction,Encapsulation.
+    *By using this all we may write the programs 
+    Example:
+      Java,Python,C++,c#,etc...
+
+Features of Java:
+-----------------
+There are two featutes are there in java 
+-->Platform Independent
+-->Case Sensitive
+
+-->Platform Independent:
+   --------------------
+    *The java is a programming language that can support the any type of the operating system.
+    *The java programming language can be write in a multiple OS.
+    *If we write a programe in one platform (OS),we can run that program without writing and modifying the code at all.
+-->Case Sensitive:
+   --------------
+    *The case sensitive means that is about the letters that are in the upper case or in the lower case.
+    *In java that considers the both upper case and lower case as supperatly.
